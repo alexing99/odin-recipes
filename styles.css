@@ -7,6 +7,17 @@
     text-align: center;
 }
 
+#mac-header {
+    text-align: center;
+    color: brown;
+}
+
 .recipe-header {
+    text-align: center
+}
+
+img {
+    width: 400px;
+    height: auto;
     text-align: center;
 }
